@@ -17,7 +17,7 @@ openai==1.86.0
 packaging==25.0
 pluggy==1.6.0
 pydantic[email]==2.5.2
-pydantic_core==2.33.2
+pydantic_core==2.14.6
 Pygments==2.19.1
 pytest==7.4.3
 python-dotenv==1.0.0
